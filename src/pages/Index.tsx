@@ -88,7 +88,7 @@ const Index = () => {
                 </p>
                 
                 <div className="flex flex-wrap gap-3">
-                  <Badge variant="outline" className="text-primary border-primary">Возраст: 29</Badge>
+                  <Badge variant="outline" className="text-primary border-primary">Возраст: 28</Badge>
                   <Badge variant="outline" className="text-primary border-primary">Рост: 173 см</Badge>
                   <Badge variant="outline" className="text-primary border-primary">ВГИК</Badge>
                 </div>
